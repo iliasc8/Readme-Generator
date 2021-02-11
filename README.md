@@ -1,4 +1,4 @@
-README Generator: https://iliasc8.github.io/Readme-Generator/
+README Generator:
 
 
 ## Video
